@@ -1,0 +1,6 @@
+Wireshark on ykkös snifferi
+$ sudo apt-get install wireshark
+valitse ws:ssä tietty interface
+voit tallentaa taltioidun sniffailusi
+
+a) 
