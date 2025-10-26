@@ -4,3 +4,19 @@ valitse ws:ssä tietty interface
 voit tallentaa taltioidun sniffailusi
 
 a) 
+b) Käytin täysin chatgpt:tä: aluksi komento: ip link
+komento näytti toisella rivillä enp0s3. Sitten sudo ip link set enp0s3 down -sammutti nettini
+Sitten yritin ping -c 3 8.8.8.8, joka on kuulemma chatgpt:n mukaan Googlen julkinen dns-palvelin. -ei toiminut ping
+Sitten sudo ip link set enp0s3 up ja ping uudestaan. -toimii
+
+c) 
+d)
+e) en tajua - tuo näyttää noita verkkokerroksia ja paketteja?
+f
+g
+h
+i
+Lähteet: terokarvinen.com
+Chatgpt: prompteja: 1. mitä tää meinaa Ei voi kalastaa. Osoita, että pystyt katkaisemaan ja palauttamaan virtuaalikoneen Internet-yhteyden.
+2. mikä tää ip on ping -c 3 8.8.8.8
+3. 
